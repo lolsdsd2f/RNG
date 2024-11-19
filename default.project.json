@@ -1,0 +1,12 @@
+{
+  "name": "RNG",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "RNG": {
+        "$path": "src"
+      }
+    }
+  }
+}
