@@ -3,7 +3,7 @@
 The `RNG` module provides a utility to generate weighted random selections based on specified rarity percentages. This module is designed for use in Luau (Roblox's Lua dialect) and can be particularly useful in games or systems where probability-based outcomes are required, such as loot tables, random events, or gacha mechanics.
 
 ---
-Install: [GitHub](https://github.com/lolsdsd2f/RNG)  |  [Studio Model]( [create.roblox.com/store/asset/100536020040174](https://create.roblox.com/store/asset/100536020040174))
+Install: [GitHub](https://github.com/lolsdsd2f/RNG)  |  [Studio Model](https://roblox.com/library/100536020040174/RNG)
 
 ---
 
