@@ -73,8 +73,8 @@ local RNG = require(path.to.RNG)
 
 local rarities = {
     { rarity = "Common", percent = 70 },
-    { rarity = "Rare", percent = 20 },
-    { rarity = "Legendary", percent = 10 },
+    { rarity = "Rare", percent = 29.99999999999 },
+    { rarity = "Legendary", percent = 0.00000000001 },
 }
 
 local rng = RNG.new(rarities)
